@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140150888783",
+    "firebase_url": "https://sarcasm-daily.firebaseio.com",
+    "project_id": "sarcasm-daily",
+    "storage_bucket": "sarcasm-daily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140150888783:android:5ac07ba6135092b8",
+        "android_client_info": {
+          "package_name": "com.incognisyssolutions.sarcasmdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140150888783-l9fvor6q2n2d4ciblj8gsnmcpnavuanr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incognisyssolutions.sarcasmdaily",
+            "certificate_hash": "b7f0c9776e85407037cc011f111a2c2aad35524e"
+          }
+        },
+        {
+          "client_id": "140150888783-f3pe2clajhpd7c4bqaned3a2o8n52isn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Bs23q1ea33QOgr4rsao281zaR9uVEuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140150888783-f3pe2clajhpd7c4bqaned3a2o8n52isn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
