@@ -118,11 +118,12 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
+
         Calendar calendar = Calendar.getInstance();
         Calendar now = Calendar.getInstance();
         // we can set time by open date and time picker dialog
         calendar.set(Calendar.HOUR_OF_DAY, 11);
-        calendar.set(Calendar.MINUTE, 40);
+        calendar.set(Calendar.MINUTE, 58);
         calendar.set(Calendar.SECOND, 0);
         if (now.after(calendar)) {
             //Log.d("Hey","Added a day");
